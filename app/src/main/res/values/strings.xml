@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ElmoMovieApp</string>
+    <string name="no_movies">No Movies found.</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
